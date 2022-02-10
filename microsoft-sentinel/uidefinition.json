@@ -6,7 +6,7 @@
         "config": {
             "isWizard": true,
             "basics": {
-                "description": "<img width=450 src=\"https://raw.githubusercontent.com/cloudguardai/CloudGuard-Deploy/master/resources/images/Cloudguard_Logo.png\">\n\nCloudGuard's one-click-to-deploy function. Complete the parameters below of where you would like Microsoft Sentinel to reside and which data connectors and you're done! \n\n[Learn more about CloudGuard](https://cloudguard.ai)",
+                "description": "<img width=450 src=\"https://raw.githubusercontent.com/cloudguardai/CloudGuard-Deploy/master/resources/images/Cloudguard_Logo.png\">\n\nCloudGuard's one-click-to-deploy function. Complete the parameters below of where you would like Microsoft Sentinel to reside, and which data connectors to deploy, and you're done! \n\n[Learn more about CloudGuard!](https://cloudguard.ai)",
                 "location": {
                     "label": "Location",
                     "toolTip": "Location for all resources",
