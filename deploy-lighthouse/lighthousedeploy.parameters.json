@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "mspOfferName": {
+      "value": "Lighthouse-Cloudguard-SOC"
+    },
+    "mspOfferDescription": {
+      "value": "Azure Lighthouse definition from the Cloudguard AI tenant for providing agreed SOC related services"
+    },
+    "managedByTenantId": {
+      "value": "437026fb-9437-4952-bc67-cb19cd2a8612"
+    },
+    "authorizations": {
+      "value": [
+        {
+          "principalId": "dc785cee-f3f2-43dd-80f4-6441b2257ccc",
+          "roleDefinitionId": "fb1c8493-542b-48eb-b624-b4c8fea62acd",
+          "principalIdDisplayName": "CloudGuard Lighthouse Group"
+        }
+      ]
+    }
+  }
+}
