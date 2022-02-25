@@ -30,11 +30,21 @@
    },
    "defaultValue": [
     {
-     "principalId": "dc785cee-f3f2-43dd-80f4-6441b2257ccc",
-     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
-     "principalIdDisplayName": "CloudGuard Lighthouse Group"
+      "principalId": "dc785cee-f3f2-43dd-80f4-6441b2257ccc",
+      "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
+      "principalIdDisplayName": "CloudGuard Lighthouse Group"
+    },
+    {
+      "principalId": "dc785cee-f3f2-43dd-80f4-6441b2257ccc",
+      "roleDefinitionId": "434105ed-43f6-45c7-a02f-909b2ba83430",
+      "principalIdDisplayName": "CloudGuard Lighthouse Group"
+    },
+    {
+      "principalId": "dc785cee-f3f2-43dd-80f4-6441b2257ccc",
+      "roleDefinitionId": "fb1c8493-542b-48eb-b624-b4c8fea62acd",
+      "principalIdDisplayName": "CloudGuard Lighthouse Group"
     }
-   ]
+  ]
   }
  },
  "variables": {
